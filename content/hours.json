@@ -1,0 +1,47 @@
+{
+  "verifyNote": "Hours can change — call 020 7636 4228 before you come. Public directories disagree. We could not live-verify Google Maps hours from this build (Maps pages do not scrape cleanly); please confirm by phone or on the Google listing.",
+  "phone": "020 7636 4228",
+  "tel": "+442076364228",
+  "bestGuess": {
+    "label": "Most commonly listed (Dessie, Restaurant Guru, TortoisePath)",
+    "days": [
+      { "day": "Monday–Friday", "hours": "6:00am – 6:00pm" },
+      { "day": "Saturday–Sunday", "hours": "7:00am – 6:00pm" }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Sluurpy",
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris",
+      "updated": "5 Jun 2025",
+      "hours": [
+        { "day": "Monday–Thursday", "hours": "6:00am – 6:00pm" },
+        { "day": "Friday–Saturday", "hours": "7:00am – 6:00pm" },
+        { "day": "Sunday", "hours": "6:00am – 6:00pm" }
+      ],
+      "note": "Shows Friday opening an hour later than Mon–Thu; Sunday listed 6–6."
+    },
+    {
+      "name": "Hungry British",
+      "url": "https://www.hungrybritish.com/london/h-t-harris-fitzrovia/",
+      "updated": "Retrieved Sep 2026 (search snippet; page is Cloudflare-protected)",
+      "hours": [
+        { "day": "Monday–Friday", "hours": "7:00am – 6:00pm" },
+        { "day": "Saturday", "hours": "8:00am – 4:00pm" },
+        { "day": "Sunday", "hours": "Closed" }
+      ],
+      "note": "The most conservative listing — later weekday open, Saturday afternoon close, Sunday shut."
+    },
+    {
+      "name": "Dessie / Restaurant Guru / TortoisePath",
+      "url": "https://www.dessie.ai/products/ht-harris",
+      "updated": "Restaurant Guru noted hours updated ~14 days before retrieve (Sep 2026)",
+      "hours": [
+        { "day": "Monday–Friday", "hours": "6:00am – 6:00pm" },
+        { "day": "Saturday–Sunday", "hours": "7:00am – 6:00pm" }
+      ],
+      "note": "These three directories agree with each other."
+    }
+  ],
+  "foursquareNote": "Foursquare’s clock block looks like popular-times slices (e.g. 9–11am, 3–4:30pm), not shop opening hours. Not used as a source of truth."
+}

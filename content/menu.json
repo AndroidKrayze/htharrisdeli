@@ -1,0 +1,240 @@
+{
+  "disclaimer": "There is no published fixed menu. Regulars order at the counter; the board and daily specials change. Prices are not listed publicly — see the counter. Items below are compiled from Google, Foursquare tips, and published guides. Flagged items are frequently mentioned, not an official signature list.",
+  "note": "Ask the counter for today’s specials.",
+  "sections": [
+    {
+      "id": "sandwiches",
+      "title": "Sandwiches & Ciabatta",
+      "intro": "Made to order on ciabatta, focaccia or panini. Reviewers say there often isn’t a printed menu — point at the counter or ask.",
+      "items": [
+        {
+          "name": "Spicy salami, emmental & rocket",
+          "note": "The most-named sandwich in public tips.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Nick Humfrey", "Foursquare — Nigel Atkinson", "Foursquare — Dhiraj M"]
+        },
+        {
+          "name": "Spicy salami, mozzarella & rocket",
+          "note": "A close cousin of the emmental version; also widely tipped.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Fash Dabeshkhoy"]
+        },
+        {
+          "name": "Pastrami with mozzarella, rocket & tomato",
+          "note": "Toasted ciabatta with pastrami also praised on Google.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Benjamin Hobson", "Google — Dan Sollis"]
+        },
+        {
+          "name": "Parma ham",
+          "note": "Mentioned as a window special and in reviews.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Sam Durham", "guides citing Parma ham"]
+        },
+        {
+          "name": "Mozzarella veggie / vegetarian sandwich",
+          "note": "Avocado, basil, tomato and cheese cited on Google. Veggie mozzarella ciabatta cited in guides.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — HJ Park", "guide summaries"]
+        },
+        {
+          "name": "Chicken escalope / schnitzel",
+          "note": "Toasted chicken escalope sandwich; Tripadvisor guests mention a filling chicken schnitzel sandwich.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Tripadvisor via MapQuest — jamescurtis29", "guide summaries"]
+        },
+        {
+          "name": "Roast chicken",
+          "note": "Called “beyond words” in Foursquare tips.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Neil van Ginsburg"]
+        },
+        {
+          "name": "Chicken, avocado, emmental & rocket ciabatta",
+          "note": "Recommended as worth the lunchtime wait.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Ryan Wylie"]
+        },
+        {
+          "name": "Mortadella",
+          "note": "Salami and mortadella sandwiches described as “all top”.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Tobias Wacker", "Foursquare — Rob Steiner"]
+        },
+        {
+          "name": "Bresaola",
+          "note": "Tipped as “wicked”.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Giorgio Venturi"]
+        }
+      ]
+    },
+    {
+      "id": "hot-pasta",
+      "title": "Hot / Pasta",
+      "intro": "Daily pasta specials rather than a fixed list. Friday lasagna is a recurring tip.",
+      "items": [
+        {
+          "name": "Daily pasta specials",
+          "note": "Family-run lunch regulars mention changing pasta of the day.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — SM", "Google — Anna Lupton", "Dessie / city guides"]
+        },
+        {
+          "name": "Lasagna — Fridays",
+          "note": "Foursquare: “Friday is lasagna day.” Also cited as lasagna in Google/Restaurant Guru summaries.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Tobias Wacker", "Restaurant Guru frequently mentioned"]
+        },
+        {
+          "name": "Toasted specials",
+          "note": "Simone praised for toasted sandwiches on Google.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Edwin Grimshaw"]
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "title": "Salads",
+      "intro": "Guides list salads alongside sandwiches and pasta. No public itemised salad board found.",
+      "items": [
+        {
+          "name": "Salads of the day",
+          "note": "Mentioned in neighbourhood guides (Dessie, Restaurant Guru “salads”). Ask what is on.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Dessie", "Restaurant Guru frequently mentioned"]
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "title": "Breakfast",
+      "intro": "Open early on most listings. Pastries and breakfast sandwiches come up often.",
+      "items": [
+        {
+          "name": "Breakfast sandwiches",
+          "note": "Guests plan return visits specifically for breakfast sandwiches.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Anna Lupton"]
+        },
+        {
+          "name": "Bacon & egg, Italian style",
+          "note": "Foursquare tip on how they make a bacon and egg sandwich.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Foursquare — Hugo Moss"]
+        },
+        {
+          "name": "Chocolate croissants & Nutella muffins",
+          "note": "Praised as “just like being in Italy”.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — William Christie"]
+        },
+        {
+          "name": "Pastries",
+          "note": "Tasty pastries and coffee called exceptionally good value.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Jonathan Graham", "Google — ollie mitchell via Restaurant Guru"]
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "title": "Coffee & Drinks",
+      "intro": "Italian coffee and bottled drinks. Historic tip prices are not current — ask the counter.",
+      "items": [
+        {
+          "name": "Espresso & coffee",
+          "note": "Repeatedly praised; one 2014 tip mentioned espresso at £1.20 — treat as historical, not a live price.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Martin Dunne", "Google — Jonathan Graham", "Foursquare — Tobias Wacker"]
+        },
+        {
+          "name": "Cappuccino / latte",
+          "note": "Cappuccino and latte mentioned across Google and Restaurant Guru.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Sam Durham", "Restaurant Guru"]
+        },
+        {
+          "name": "Chinotto",
+          "note": "Italian bitter-sweet soda, called “wonderful” on Google.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — anonymous review, Jan 2023"]
+        }
+      ]
+    },
+    {
+      "id": "sweet",
+      "title": "Sweet",
+      "intro": "Italian and bakery sweets mentioned in reviews — availability changes.",
+      "items": [
+        {
+          "name": "Cannoli",
+          "note": "Loved alongside the coffee.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — anonymous review, Jan 2023"]
+        },
+        {
+          "name": "Pastel de nata",
+          "note": "Paired with cappuccino after a Parma ham sandwich in a Google review.",
+          "popular": true,
+          "askCounter": true,
+          "price": null,
+          "sources": ["Google — Sam Durham"]
+        },
+        {
+          "name": "Hazelnut mini-cannoli / cannelloni",
+          "note": "A café-guide guest was too late for the popular hazelnut mini-cannoli; vanilla praised.",
+          "popular": false,
+          "askCounter": true,
+          "price": null,
+          "sources": ["htharrislondon.cafecityguide.website guest review"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "aggregate": {
+    "google": { "rating": 4.7, "count": 218, "source": "Restaurant Guru citing Google, 2026" },
+    "tripadvisor": { "rating": 4.8, "count": 44, "source": "Restaurant Guru / MapQuest citing Tripadvisor" },
+    "foursquare": { "rating": 8.6, "count": 40, "source": "Foursquare venue page" },
+    "sluurpy": { "rating": 4.7, "count": 468, "source": "Sluurpy aggregated, updated 5 Jun 2025" }
+  },
+  "googleMapsReviewsUrl": "https://www.google.com/maps/place/HT+Harris+Delicatessen/@51.5180928,-0.1431056,17z",
+  "quotes": [
+    {
+      "id": "roxana",
+      "quote": "This was probably the BEST lunch I have had in a long time. Fresh, delicious, and it exceeded all my expectations.",
+      "name": "Roxana Mobasheri",
+      "source": "Google",
+      "date": "Feb 2023",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    },
+    {
+      "id": "aaron",
+      "quote": "The best family run Italian deli I’ve found in London. Amazing sandwiches, incredibly gracious service and very good prices. A gem.",
+      "name": "Aaron Ferrucci",
+      "source": "Google",
+      "date": "Dec 2022",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    },
+    {
+      "id": "sm",
+      "quote": "The locals’ secret place for lunch. Family run. Daily pasta specials and sandwiches. Great value.",
+      "name": "SM",
+      "source": "Google",
+      "date": "Mar 2023",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    },
+    {
+      "id": "edwin",
+      "quote": "Great little deli. Simone was a great server and makes a great toasted sandwich. Highly recommend.",
+      "name": "Edwin Grimshaw",
+      "source": "Google",
+      "date": "Feb 2023",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    },
+    {
+      "id": "giuseppe",
+      "quote": "Amazing people, best fresh food in London. I eat every day on my break. Proper best Italian shop — very clean inside.",
+      "name": "Giuseppe Donzelli",
+      "source": "Google",
+      "date": "Oct 2023",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    },
+    {
+      "id": "anna",
+      "quote": "Lovely Italian family own it. Great food and atmosphere. The pastas are amazing. Hospitality untouchable. Busy, busy, busy — ideal if you’re going to the BBC.",
+      "name": "Anna Lupton",
+      "source": "Google",
+      "date": "c. 2024–25",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris/reviews"
+    },
+    {
+      "id": "william",
+      "quote": "This place is special, just like being in Italy. Great coffee, Nutella muffins, and the best chocolate croissants.",
+      "name": "William Christie",
+      "source": "Google",
+      "date": "Oct 2023",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    },
+    {
+      "id": "nick",
+      "quote": "Spicy salami sandwich with emmental and rocket is amazing.",
+      "name": "Nick Humfrey",
+      "source": "Foursquare",
+      "date": "Jan 2013",
+      "stars": 5,
+      "url": "https://foursquare.com/v/ht-harris/4ad5c76df964a520740321e3"
+    },
+    {
+      "id": "ryan",
+      "quote": "Wicked family owned delicatessen. Gets a bit busy around lunchtime, but a chicken, avocado, emmental and rocket ciabatta is worth the wait.",
+      "name": "Ryan Wylie",
+      "source": "Foursquare",
+      "date": "Feb 2010",
+      "stars": 5,
+      "url": "https://foursquare.com/v/ht-harris/4ad5c76df964a520740321e3"
+    },
+    {
+      "id": "tobias",
+      "quote": "Amazing little family joint that serves what might be the best value in Central London. Friday is lasagna day.",
+      "name": "Tobias Wacker",
+      "source": "Foursquare",
+      "date": "Aug 2014",
+      "stars": 5,
+      "url": "https://foursquare.com/v/ht-harris/4ad5c76df964a520740321e3"
+    },
+    {
+      "id": "neil",
+      "quote": "Authentic Italian deli. The roast chicken is beyond words. This place is the real deal.",
+      "name": "Neil van Ginsburg",
+      "source": "Foursquare",
+      "date": "May 2013",
+      "stars": 5,
+      "url": "https://foursquare.com/v/ht-harris/4ad5c76df964a520740321e3"
+    },
+    {
+      "id": "chinotto",
+      "quote": "Great Italian café and deli. Loved their coffee and cannoli. They also sell Chinotto — wonderful.",
+      "name": "Google reviewer",
+      "source": "Google",
+      "date": "Jan 2023",
+      "stars": 5,
+      "url": "https://www.sluurpy.co.uk/london/restaurant/2133423/h-t-harris"
+    }
+  ]
+}
