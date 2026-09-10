@@ -65,12 +65,6 @@ export const gallery: GalleryImage[] = [
     kind: "food",
   },
   {
-    src: "https://images.unsplash.com/photo-1600628421055-4d30de35a6c0?auto=format&fit=crop&w=1600&q=80",
-    alt: "Focaccia with an open, olive-oiled crumb",
-    credit: "Unsplash — focaccia crumb",
-    kind: "food",
-  },
-  {
     src: "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=1600&q=80",
     alt: "A tray of baked lasagna, golden at the edges",
     credit: "Unsplash — lasagna (Friday special mentioned in tips)",

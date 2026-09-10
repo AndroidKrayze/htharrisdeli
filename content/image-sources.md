@@ -22,7 +22,7 @@ Google Maps place photos exist on
 
 ## Curated premium stills (Unsplash)
 
-Chosen for warm wood, marble, oil, crema, crumb — not cartoon Italian-flag pasta.
+Chosen for warm wood, marble, oil, crema — not cartoon Italian-flag pasta.
 
 | Use | Photo | Credit |
 |---|---|---|
@@ -32,7 +32,6 @@ Chosen for warm wood, marble, oil, crema, crumb — not cartoon Italian-flag pas
 | Cheese wheels | `photo-1452195100486-9cc805987862` | Unsplash |
 | Espresso crema | `photo-1510591509098-f4fdc6d0ff04` | Unsplash |
 | Olive oil pour | `photo-1474979266404-7eaacbcd87c5` | Unsplash |
-| Focaccia crumb | `photo-1600628421055-4d30de35a6c0` | Unsplash |
 | Lasagna | `photo-1574894709920-11b28e7367e3` | Unsplash (Friday lasagna is a Foursquare tip, not this tray) |
 | Cannoli | `photo-1624353365286-3f8d62daad51` | Unsplash |
 | Espresso service | `photo-1495474472287-4d71bcdd2085` | Unsplash |
