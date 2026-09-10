@@ -1,7 +1,9 @@
 # H.T. Harris — premium delicatessen demo
 
 Sales demo for **H.T. Harris / HT Harris Delicatessen**, 41 Great Titchfield Street, Fitzrovia, London W1W 7PG.  
-Placeholder domains: `htharris.co.uk` or `ht-harris-deli.co.uk`.
+Placeholder domains: `htharris.co.uk` or `ht-harris-deli.co.uk`.  
+Live demo: https://androidkrayze.github.io/htharrisdeli/  
+Source: https://github.com/AndroidKrayze/htharrisdeli
 
 Enjoy Fitzrovia lists the business as a long-standing family Italian deli and the website as **N/A**. This mockup is the site they have never had.
 
