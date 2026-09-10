@@ -44,7 +44,7 @@ Stack: Next.js App Router, TypeScript, Tailwind v4, framer-motion, `next/image`.
 
 - Hours conflict across Sluurpy, Hungry British, and Dessie / Restaurant Guru. The Visit section shows a best-guess **and** the sources, plus **call 020 7636 4228**.
 - Menu items are review- and tip-sourced. Prices: see counter.
-- No invented Instagram handle. No invented founding year. Simone appears only as a named Google reviewer mention.
+- No invented Instagram handle. Founding year **1893** is the family date. Simone appears only as a named Google reviewer mention.
 - Images are a mix of Foursquare guest shots of the shop and curated Unsplash stills. See `content/image-sources.md`.
 
 ## Content files

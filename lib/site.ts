@@ -2,14 +2,14 @@ export const site = {
   name: "H.T. Harris",
   legalName: "HT Harris Delicatessen",
   tagline:
-    "Family Italian delicatessen · Great Titchfield Street · Est. c. 1965",
+    "Family Italian delicatessen · Great Titchfield Street · Est. 1893",
   est: {
-    year: 1965,
-    display: "1965",
+    year: 1893,
+    display: "1893",
     label: "Est.",
-    italian: "Dal 1965",
-    note: "A 2014 Fitzrovia lunch note said the shop had been serving local office workers for just shy of fifty years — circa 1965. Not a Companies House founding filing.",
-    source: "https://607squaremiles.wordpress.com/2014/09/16/264/",
+    italian: "Dal 1893",
+    note: "Family date: H.T. Harris since 1893.",
+    source: "Confirmed by the client for this demo.",
   },
   description:
     "Long-standing family-owned Italian delicatessen on Great Titchfield Street, Fitzrovia. Made-to-order ciabatta and panini, daily pasta, espresso — walk-in lunch near the BBC and Oxford Circus.",

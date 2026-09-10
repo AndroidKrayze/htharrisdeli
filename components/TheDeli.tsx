@@ -24,9 +24,7 @@ export function TheDeli() {
               <em className="font-display text-xl text-espresso">
                 long-standing family owned and operated Italian delicatessen
               </em>
-              — and lists the website as N/A. A 2014 lunch note said the counter
-              had already been feeding Fitzrovia office workers for just shy of
-              fifty years, so we mark the shop{" "}
+              — and lists the website as N/A. The family dates the shop to{" "}
               <strong className="font-medium text-espresso">
                 {site.est.label} {site.est.display}
               </strong>

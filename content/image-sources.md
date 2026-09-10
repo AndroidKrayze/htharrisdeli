@@ -50,7 +50,7 @@ Chosen for warm wood, marble, oil, crema, crumb — not cartoon Italian-flag pas
 
 ## What was not invented
 
-- No founding year (a 2014 blog recalled “just shy of fifty years”; that page 404’d on fetch — not used as a date).
+- Founding year: **1893** — given by the client for this demo (earlier public notes only said “generations” / “just shy of fifty years” in 2014).
 - No full priced menu. Reviewers mention £5–£6 sandwiches historically; those figures are stale and stay off the homepage.
 - No staff roster beyond Simone as named in a Google review.
 - No online ordering.
